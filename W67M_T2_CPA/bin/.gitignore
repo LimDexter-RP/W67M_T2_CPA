@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 /CareerPlanningApplication.class
 /User.class
 /Helper.class
+=======
+/Subject.class
+/SubjectMain.class
+/AcademicClusters.class
+/CareerMain.class
+/CareerPlanningApplication.class
+/CareerPlanningApplicationTest.class
+/Helper.class
+/Prerequisite.class
+>>>>>>> branch 'master' of https://github.com/LimDexter-RP/W67M_T2_CPA.git

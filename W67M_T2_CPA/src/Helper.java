@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 // Version for AY2013/14 Sem 2
 
@@ -9,6 +10,19 @@ public class Helper {
   public static String readString(String prompt) {
     System.out.print(prompt);
     return new java.util.Scanner(System.in).nextLine();
+=======
+// Version for AY2013/14 Sem 2
+
+import java.util.*;
+
+public class Helper {
+  
+  static Scanner scan = new java.util.Scanner(System.in);
+  
+  public static String readString(String prompt) {
+    System.out.print(prompt);
+    return scan.nextLine();
+>>>>>>> branch 'master' of https://github.com/LimDexter-RP/W67M_T2_CPA.git
   }
 
   public static int readInt(String prompt) {
